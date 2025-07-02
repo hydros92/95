@@ -1,6 +1,7 @@
-aiogram==2.25.1
-asyncpg==0.29.0
-Pillow==10.3.0
-python-dotenv==1.0.1
-gunicorn==22.0.0
-Flask==3.0.3
+    aiogram==2.25.1
+    asyncpg==0.29.0
+    Pillow==10.3.0
+    python-dotenv==1.0.1
+    gunicorn==22.0.0
+    Flask==3.0.3
+    
