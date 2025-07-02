@@ -1,0 +1,8 @@
+pyTelegramBotAPI
+requests
+python-dotenv
+psycopg2-binary
+APScheduler
+Flask
+gunicorn
+psycopg2-binary
